@@ -1,0 +1,6 @@
+{
+  "name": "UrbanFix — Civic Service Complaint Management Platform",
+  "description": "A civic service complaint management platform helping citizens report urban infrastructure issues and enabling municipal administrators to assign departments, track status timelines, and analyze city service metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
